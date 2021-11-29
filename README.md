@@ -18,7 +18,7 @@ Hard Skills:
 
 Soft Skills:  
         Flexibilidade;  
-        Comunicação;
+        Comunicação;  
         Trabalho em equipe.
 
 
