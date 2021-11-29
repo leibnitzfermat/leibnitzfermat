@@ -7,7 +7,7 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
 📨 leibnitzfsa@gmail.com  
 
 
-###Hard Skills:  
+Hard Skills:  
         Python:  
             Django;  
             FastApi;  
@@ -16,7 +16,7 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
             Shell script;
             Docker.  
 
-###Soft Skills:  
+Soft Skills:  
         Flexibilidade;  
         Comunicação;
         Trabalho em equipe.
