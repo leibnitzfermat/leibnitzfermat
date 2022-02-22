@@ -11,8 +11,8 @@ Habilidades Técnicas:
         - Python:  
             - Pyenv;  
             - Poetry;  
-            - Test.
-        - Linux.
+            - Test. 
+        - Linux. 
         - Git.
 
 Habilidades Pessoais:  
