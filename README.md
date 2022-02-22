@@ -2,8 +2,8 @@
 
 Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos.
 
-🔭 atualmente estou desenvolvendo minhas habilidades em back-end  
-📖 estudando 🐍Python e 🐧Linux  
+🔭 Atualmente estou desenvolvendo minhas habilidades em back-end  
+📖 Estudando: 🐍Python e 🐧Linux  
 📨 leibnitzfsa@gmail.com  
 
 
