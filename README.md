@@ -7,9 +7,9 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
 📨 leibnitzfsa@gmail.com  
 
 
-Habilidades Técnicas:
-        - Python; 
-        - Linux;
+Habilidades Técnicas:  
+        - Python;  
+        - Linux;  
         - Git.
         
 Habilidades Pessoais:  
