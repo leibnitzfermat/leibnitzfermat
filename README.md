@@ -8,9 +8,9 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
 
 
 Habilidades Técnicas:
-        - Python.
+        - Python. 
         - Linux. 
-        - Git. 
+        - Git.  
 
 Habilidades Pessoais:  
         - Flexibilidade;  
