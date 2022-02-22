@@ -9,12 +9,12 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
 
 Hard Skills:  
         Python:  
-            Django;  
-            FastApi;  
-            Test;  
-        Linux:  
-            Shell script;
-            Docker.  
+            Pyenv;  
+            Poetry;  
+            Test;
+            
+        Linux.
+        Git.
 
 Soft Skills:  
         Flexibilidade;  
