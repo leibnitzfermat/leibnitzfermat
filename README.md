@@ -11,8 +11,7 @@ Hard Skills:
         Python:  
             Pyenv;  
             Poetry;  
-            Test;
-            
+            Test.
         Linux.
         Git.
 
