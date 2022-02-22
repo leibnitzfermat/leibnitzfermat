@@ -13,7 +13,7 @@ Habilidades Técnicas:
             - Poetry;  
             - Test. 
         - Linux. 
-        - Git.
+        - Git. 
 
 Habilidades Pessoais:  
         - Flexibilidade;  
