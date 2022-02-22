@@ -1,9 +1,8 @@
-# Olá Me chamo Leibnitz (lê)👋
+# Olá Me chamo Leibnitz (Lê)👋
 
 Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos.
 
-🔭 Atualmente estou desenvolvendo minhas habilidades em back-end  
-📖 Estudando: 🐍Python e 🐧Linux  
+🔭 Atualmente estou desenvolvendo minhas habilidades em back-end 
 📨 leibnitzfsa@gmail.com  
 
 
