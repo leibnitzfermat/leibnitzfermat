@@ -7,18 +7,18 @@ Estou atualmente cursando ADS e fazendo cursos para complementa os conhecimentos
 📨 leibnitzfsa@gmail.com  
 
 
-Hard Skills:  
-        Python:  
-            Pyenv;  
-            Poetry;  
-            Test.;
-        Linux.;
-        Git.
+Habilidades Técnicas:
+        - Python:  
+            - Pyenv;  
+            - Poetry;  
+            - Test.
+        - Linux.
+        - Git.
 
-Soft Skills:  
-        Flexibilidade;  
-        Comunicação;  
-        Trabalho em equipe.
+Habilidades Pessoais:  
+        - Flexibilidade;  
+        - Comunicação;  
+        - Trabalho em equipe.
 
 
 <!--
